@@ -1,0 +1,1 @@
+<li class="chatMessage"><p><span id="username"><strong>bplv</strong></span><span id="datetime"> 2016-05-15 13:56:04</span></p><p class="message">test</p></li>
